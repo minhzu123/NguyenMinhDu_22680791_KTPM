@@ -1,0 +1,9 @@
+{
+  "name": "bai3-react-hello",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "echo \"dummy build\"",
+    "start": "node server.js"
+  }
+}
