@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "Giới thiệu về kiến trúc phân lớp",
+    "content": "Kiến trúc phân lớp (Layered Architecture) là một mô hình thiết kế phần mềm phổ biến, chia ứng dụng thành các lớp riêng biệt, mỗi lớp đảm nhận một vai trò cụ thể.",
+    "author": "Admin",
+    "createdAt": "2026-03-16T10:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "title": "React.js trong phát triển CMS",
+    "content": "React.js là một thư viện JavaScript phổ biến được sử dụng để xây dựng giao diện người dùng. Trong kiến trúc CMS, React đóng vai trò là Presentation Layer.",
+    "author": "Admin",
+    "createdAt": "2026-03-16T11:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "title": "Node.js và Express trong Backend",
+    "content": "Node.js kết hợp với Express framework tạo nên một nền tảng backend mạnh mẽ, hỗ trợ xây dựng REST API một cách nhanh chóng và hiệu quả.",
+    "author": "Admin",
+    "createdAt": "2026-03-16T12:00:00.000Z"
+  },
+  {
+    "id": "ddd19501-9144-4871-91de-d8680a91e3c4",
+    "title": "Bai viet test CMS",
+    "content": "Day la bai viet test chuc nang tao moi cua CMS",
+    "author": "Test User",
+    "createdAt": "2026-03-16T12:41:24.217Z"
+  }
+]
