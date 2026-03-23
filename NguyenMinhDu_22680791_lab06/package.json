@@ -1,0 +1,13 @@
+{
+  "name": "nguyenminhdu_22680791_lab06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "mkdir dist && cp index.js dist/index.js",
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
